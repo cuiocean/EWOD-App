@@ -12,6 +12,7 @@ export default {
 };
 </script>
 
-<style>
-/*每个页面公共css */ 
+<style lang="scss">
+/* 注意声明lang="scss"！ */
+@import "uview-ui/index.scss";
 </style>
